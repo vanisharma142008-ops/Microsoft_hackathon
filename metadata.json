@@ -1,0 +1,6 @@
+{
+  "name": "WanderWise - AI Travel Agent",
+  "description": "An adaptive, constraint-aware AI travel agent that researches real data, crafts personalized itineraries, validates budgets, and re-plans seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
